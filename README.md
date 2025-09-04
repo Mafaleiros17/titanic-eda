@@ -25,4 +25,4 @@ Explorar o dataset do Titanic e identificar fatores que influenciaram a sobreviv
 - Transformar em dashboard interativo (Streamlit).
 
 ---
-👩‍💻 Projeto desenvolvido por *[seu nome]* como parte do portfólio de Ciência de Dados.
+👩‍💻 Projeto desenvolvido por Margareth Faleiros Braghini como parte do portfólio de Ciência de Dados.
